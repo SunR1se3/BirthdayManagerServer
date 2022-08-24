@@ -1,0 +1,12 @@
+F:\BirthdayManager\Birthday.Domain\bin\Debug\net6.0\Birthday.Domain.deps.json
+F:\BirthdayManager\Birthday.Domain\bin\Debug\net6.0\Birthday.Domain.dll
+F:\BirthdayManager\Birthday.Domain\bin\Debug\net6.0\Birthday.Domain.pdb
+F:\BirthdayManager\Birthday.Domain\obj\Debug\net6.0\Birthday.Domain.csproj.AssemblyReference.cache
+F:\BirthdayManager\Birthday.Domain\obj\Debug\net6.0\Birthday.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\BirthdayManager\Birthday.Domain\obj\Debug\net6.0\Birthday.Domain.AssemblyInfoInputs.cache
+F:\BirthdayManager\Birthday.Domain\obj\Debug\net6.0\Birthday.Domain.AssemblyInfo.cs
+F:\BirthdayManager\Birthday.Domain\obj\Debug\net6.0\Birthday.Domain.csproj.CoreCompileInputs.cache
+F:\BirthdayManager\Birthday.Domain\obj\Debug\net6.0\Birthday.Domain.dll
+F:\BirthdayManager\Birthday.Domain\obj\Debug\net6.0\refint\Birthday.Domain.dll
+F:\BirthdayManager\Birthday.Domain\obj\Debug\net6.0\Birthday.Domain.pdb
+F:\BirthdayManager\Birthday.Domain\obj\Debug\net6.0\ref\Birthday.Domain.dll

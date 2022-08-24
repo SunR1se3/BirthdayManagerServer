@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lM0sMkhrK2ej4LtmrnBrg6+aAEXhMbQ+5SQ7Mlcwa6hjZ8k+i3orzlv9WvX+Nz3Zn+Dnksy6666TwP2cPa1/Xg==",
+  "success": true,
+  "projectFilePath": "F:\\BirthdayManager\\Birthday.Contracts\\Birthday.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sevg3\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\sevg3\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\sevg3\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

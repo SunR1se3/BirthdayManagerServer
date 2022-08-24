@@ -1,0 +1,17 @@
+F:\BirthdayManager\Birthday.Mapper\bin\Debug\net6.0\Birthday.Mapper.deps.json
+F:\BirthdayManager\Birthday.Mapper\bin\Debug\net6.0\Birthday.Mapper.dll
+F:\BirthdayManager\Birthday.Mapper\bin\Debug\net6.0\Birthday.Mapper.pdb
+F:\BirthdayManager\Birthday.Mapper\bin\Debug\net6.0\Birthday.Contracts.dll
+F:\BirthdayManager\Birthday.Mapper\bin\Debug\net6.0\Birthday.Domain.dll
+F:\BirthdayManager\Birthday.Mapper\bin\Debug\net6.0\Birthday.Contracts.pdb
+F:\BirthdayManager\Birthday.Mapper\bin\Debug\net6.0\Birthday.Domain.pdb
+F:\BirthdayManager\Birthday.Mapper\obj\Debug\net6.0\Birthday.Mapper.csproj.AssemblyReference.cache
+F:\BirthdayManager\Birthday.Mapper\obj\Debug\net6.0\Birthday.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+F:\BirthdayManager\Birthday.Mapper\obj\Debug\net6.0\Birthday.Mapper.AssemblyInfoInputs.cache
+F:\BirthdayManager\Birthday.Mapper\obj\Debug\net6.0\Birthday.Mapper.AssemblyInfo.cs
+F:\BirthdayManager\Birthday.Mapper\obj\Debug\net6.0\Birthday.Mapper.csproj.CoreCompileInputs.cache
+F:\BirthdayManager\Birthday.Mapper\obj\Debug\net6.0\Birthday.Mapper.csproj.CopyComplete
+F:\BirthdayManager\Birthday.Mapper\obj\Debug\net6.0\Birthday.Mapper.dll
+F:\BirthdayManager\Birthday.Mapper\obj\Debug\net6.0\refint\Birthday.Mapper.dll
+F:\BirthdayManager\Birthday.Mapper\obj\Debug\net6.0\Birthday.Mapper.pdb
+F:\BirthdayManager\Birthday.Mapper\obj\Debug\net6.0\ref\Birthday.Mapper.dll

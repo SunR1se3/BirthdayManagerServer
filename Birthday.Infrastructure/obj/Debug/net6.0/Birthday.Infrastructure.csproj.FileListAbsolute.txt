@@ -1,0 +1,12 @@
+F:\BirthdayManager\Birthday.Infrastructure\bin\Debug\net6.0\Birthday.Infrastructure.deps.json
+F:\BirthdayManager\Birthday.Infrastructure\bin\Debug\net6.0\Birthday.Infrastructure.dll
+F:\BirthdayManager\Birthday.Infrastructure\bin\Debug\net6.0\Birthday.Infrastructure.pdb
+F:\BirthdayManager\Birthday.Infrastructure\obj\Debug\net6.0\Birthday.Infrastructure.csproj.AssemblyReference.cache
+F:\BirthdayManager\Birthday.Infrastructure\obj\Debug\net6.0\Birthday.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\BirthdayManager\Birthday.Infrastructure\obj\Debug\net6.0\Birthday.Infrastructure.AssemblyInfoInputs.cache
+F:\BirthdayManager\Birthday.Infrastructure\obj\Debug\net6.0\Birthday.Infrastructure.AssemblyInfo.cs
+F:\BirthdayManager\Birthday.Infrastructure\obj\Debug\net6.0\Birthday.Infrastructure.csproj.CoreCompileInputs.cache
+F:\BirthdayManager\Birthday.Infrastructure\obj\Debug\net6.0\Birthday.Infrastructure.dll
+F:\BirthdayManager\Birthday.Infrastructure\obj\Debug\net6.0\refint\Birthday.Infrastructure.dll
+F:\BirthdayManager\Birthday.Infrastructure\obj\Debug\net6.0\Birthday.Infrastructure.pdb
+F:\BirthdayManager\Birthday.Infrastructure\obj\Debug\net6.0\ref\Birthday.Infrastructure.dll

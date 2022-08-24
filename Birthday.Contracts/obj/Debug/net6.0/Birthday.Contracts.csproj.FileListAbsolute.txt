@@ -1,0 +1,12 @@
+F:\BirthdayManager\Birthday.Contracts\bin\Debug\net6.0\Birthday.Contracts.deps.json
+F:\BirthdayManager\Birthday.Contracts\bin\Debug\net6.0\Birthday.Contracts.dll
+F:\BirthdayManager\Birthday.Contracts\bin\Debug\net6.0\Birthday.Contracts.pdb
+F:\BirthdayManager\Birthday.Contracts\obj\Debug\net6.0\Birthday.Contracts.csproj.AssemblyReference.cache
+F:\BirthdayManager\Birthday.Contracts\obj\Debug\net6.0\Birthday.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\BirthdayManager\Birthday.Contracts\obj\Debug\net6.0\Birthday.Contracts.AssemblyInfoInputs.cache
+F:\BirthdayManager\Birthday.Contracts\obj\Debug\net6.0\Birthday.Contracts.AssemblyInfo.cs
+F:\BirthdayManager\Birthday.Contracts\obj\Debug\net6.0\Birthday.Contracts.csproj.CoreCompileInputs.cache
+F:\BirthdayManager\Birthday.Contracts\obj\Debug\net6.0\Birthday.Contracts.dll
+F:\BirthdayManager\Birthday.Contracts\obj\Debug\net6.0\refint\Birthday.Contracts.dll
+F:\BirthdayManager\Birthday.Contracts\obj\Debug\net6.0\Birthday.Contracts.pdb
+F:\BirthdayManager\Birthday.Contracts\obj\Debug\net6.0\ref\Birthday.Contracts.dll

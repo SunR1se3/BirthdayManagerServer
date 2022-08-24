@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BirthdayManager</name>
+    </assembly>
+    <members>
+        <member name="T:BirthdayManager.Controllers.UserController">
+            <summary>
+            Пользователь
+            </summary>
+        </member>
+        <member name="M:BirthdayManager.Controllers.UserController.#ctor(Birthday.Services.Services.IUserService)">
+            <summary>
+            Введение зависимостей через конструктор
+            </summary>
+            <param name="userService">Сервис, обслуживающий контроллер</param>
+        </member>
+        <member name="M:BirthdayManager.Controllers.UserController.Get">
+            <summary>
+            Получает список пользователей
+            </summary>
+            <returns>Список пользователей</returns>
+        </member>
+        <member name="M:BirthdayManager.Controllers.UserController.GetById(System.Guid)">
+            <summary>
+            Получает пользователя по идентификатору
+            </summary>
+            <param name="id">Идентификатор</param>
+            <returns>Модель пользователя</returns>
+        </member>
+        <member name="M:BirthdayManager.Controllers.UserController.GetUpcomingBirthdays">
+            <summary>
+            Получает список ближайших ДР
+            </summary>
+            <returns>Список ближайших ДР</returns>
+        </member>
+        <member name="M:BirthdayManager.Controllers.UserController.Add(Birthday.Contracts.UserApiDto,Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            Добавляет пользователя
+            </summary>
+            <param name="model">Модель</param>
+            <returns>Успех/неудачу добавления</returns>
+        </member>
+        <member name="M:BirthdayManager.Controllers.UserController.Update(Birthday.Contracts.UserApiDto,Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            Обновляет данные
+            </summary>
+            <param name="model">Модель</param>
+            <returns>Успех/неудачу редактирования</returns>
+        </member>
+        <member name="M:BirthdayManager.Controllers.UserController.Remove(System.Guid)">
+            <summary>
+            Удаляет пользователя
+            </summary>
+            <param name="id">Идентификатор</param>
+            <returns>Успех/неудачу добавления</returns>
+        </member>
+    </members>
+</doc>

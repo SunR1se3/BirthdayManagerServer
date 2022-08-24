@@ -1,0 +1,15 @@
+F:\BirthdayManager\Birthday.DataAccess\bin\Debug\net6.0\Birthday.DataAccess.deps.json
+F:\BirthdayManager\Birthday.DataAccess\bin\Debug\net6.0\Birthday.DataAccess.dll
+F:\BirthdayManager\Birthday.DataAccess\bin\Debug\net6.0\Birthday.DataAccess.pdb
+F:\BirthdayManager\Birthday.DataAccess\bin\Debug\net6.0\Birthday.Domain.dll
+F:\BirthdayManager\Birthday.DataAccess\bin\Debug\net6.0\Birthday.Domain.pdb
+F:\BirthdayManager\Birthday.DataAccess\obj\Debug\net6.0\Birthday.DataAccess.csproj.AssemblyReference.cache
+F:\BirthdayManager\Birthday.DataAccess\obj\Debug\net6.0\Birthday.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\BirthdayManager\Birthday.DataAccess\obj\Debug\net6.0\Birthday.DataAccess.AssemblyInfoInputs.cache
+F:\BirthdayManager\Birthday.DataAccess\obj\Debug\net6.0\Birthday.DataAccess.AssemblyInfo.cs
+F:\BirthdayManager\Birthday.DataAccess\obj\Debug\net6.0\Birthday.DataAccess.csproj.CoreCompileInputs.cache
+F:\BirthdayManager\Birthday.DataAccess\obj\Debug\net6.0\Birthday.DataAccess.csproj.CopyComplete
+F:\BirthdayManager\Birthday.DataAccess\obj\Debug\net6.0\Birthday.DataAccess.dll
+F:\BirthdayManager\Birthday.DataAccess\obj\Debug\net6.0\refint\Birthday.DataAccess.dll
+F:\BirthdayManager\Birthday.DataAccess\obj\Debug\net6.0\Birthday.DataAccess.pdb
+F:\BirthdayManager\Birthday.DataAccess\obj\Debug\net6.0\ref\Birthday.DataAccess.dll
